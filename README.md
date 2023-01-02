@@ -5,3 +5,4 @@ git練習用diff
 コンフリクト用
 最終版
 rebase用更新
+main用更新コンフリクト
