@@ -6,3 +6,4 @@ git練習用diff
 最終版
 rebase用更新
 main用更新コンフリクト
+githubで更新
